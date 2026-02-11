@@ -1,2 +1,2 @@
 # Gay-cruise
-Gay cruise websit
+Gay cruise website
